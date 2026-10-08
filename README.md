@@ -9,6 +9,7 @@
 - 🎵 [Music](categories/music.md)
 - 📱 [Android](categories/android.md)
 - 📺 [Android TV](categories/android-tv.md)
+- ✈️ [Telegram](categories/telegram.md)
 - 💻 [Windows](categories/windows.md)
 - 🐧 [Linux](categories/linux.md)
 - 🌐 [Websites](categories/websites.md)
@@ -24,6 +25,7 @@ This project is inspired by and links to established public indexes and open-sou
 - [EverythingMoe](https://everythingmoe.com/) — anime and manga index
 - [Awesome Android TV FOSS Apps](https://github.com/Generator/Awesome-Android-TV-FOSS-Apps) — FOSS Android TV apps
 - [Open Source Music Streaming Apps](https://github.com/chayotic/Open-Source-Music-Streaming-Apps) — open-source music streaming projects
+- [Awesome Telegram](https://github.com/ebertti/awesome-telegram) — Telegram groups, channels, bots and libraries
 
 This repository is an original navigation layer. It does not copy or host the contents of those projects.
 
