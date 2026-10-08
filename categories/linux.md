@@ -3,7 +3,6 @@
 ## ⭐ Linux Software Collections
 
 - [Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software) — large curated list of Linux applications and tools
-- [Linux App Finder](https://linuxappfinder.com/) — discover Linux applications by category
 - [Flathub](https://flathub.org/) — Flatpak app catalog
 
 ## 🖥️ Desktop Environments
