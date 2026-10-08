@@ -10,6 +10,7 @@
 - 📱 [Android](categories/android.md)
 - 📺 [Android TV](categories/android-tv.md)
 - ✈️ [Telegram](categories/telegram.md)
+- 🌐 [Google Chrome](categories/chrome.md)
 - 💻 [Windows](categories/windows.md)
 - 🐧 [Linux](categories/linux.md)
 - 🌐 [Websites](categories/websites.md)
